@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://synthetic-life.sproutern.com/index.html</loc>
+    <lastmod>2026-02-13</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://synthetic-life.sproutern.com/about.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://synthetic-life.sproutern.com/compliance.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://synthetic-life.sproutern.com/contact.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://synthetic-life.sproutern.com/posts.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://synthetic-life.sproutern.com/privacy.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://synthetic-life.sproutern.com/terms.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://synthetic-life.sproutern.com/tools.html</loc>
+    <priority>0.8</priority>
+  </url>
+</urlset>
